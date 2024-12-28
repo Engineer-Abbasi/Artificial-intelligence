@@ -4,7 +4,7 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("ماشین حساب ساده");
+        
         System.out.println("عملیات مورد نظر را وارد کنید: +, -, *, /");
         char operator = scanner.next().charAt(0);
 
